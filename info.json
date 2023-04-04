@@ -1,1 +1,32 @@
-
+{"name":"Rejuve.AI",
+"tokenSymbol":"RJV ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Rejuve.AI is a decentralized, AI-driven longevity research network allowing people from all over the world to track their health data, receive valuable insights, contribute to cutting-edge longevity research, and earn rewards. Rejuve.AI's primary research tool is the Longevity mobile app (iOS and Android), allowing users to track their health data, receive a biological age calculation and valuable health insights, access top of the line health products and services, and have an opportunity to earn RJV for contributing their data to longevity research.",
+"whitePaperLink":"https://rejuve.ai/wp-content/uploads/2023/02/Rejuve-Network-Whitepaper-1.1-1.pdf",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/embed/f-N48NBJRzo",
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=f-N48NBJRzo"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/embed/S34vDwXdcx4",  
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=S34vDwXdcx4"}
+ ],
+"deleted":false,
+"primaryColor":"#0ec1c1",
+"twitterHandle":"@Rejuve_AI",
+"coingeckoId":"https://www.coingecko.com/en/coins/rejuve-ai",
+"snapshotId":"",
+"logo":"https://rejuve.ai/wp-content/uploads/2023/03/Rjv-Icon.png",
+"telegramLink":"",
+"discordLink":"@rejuvecommunity",
+"website":"https://rejuve.ai/",
+"tokenDescription":"The RJV token is the membership token of the Rejuve Network, used to access products and services in the in-app Rewards Store at discounted rates, such as science-backed",
+"tokenTradeLink":"https://www.gate.io/trade/RJV_USDT",
+"tags":["Decentralized biotech" , "Ecosystems"]
+  
+}
